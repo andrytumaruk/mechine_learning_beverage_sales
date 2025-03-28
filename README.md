@@ -1,4 +1,4 @@
-# **Machine Learning for Beverage Sales: Clustering & Classification**
+# **Machine Learning Beverage Sales dengan Clustering & Classification**
 
 Repositori ini berisi proyek **Machine Learning untuk analisis penjualan minuman (Beverage Sales)**. Proyek ini mencakup dua bagian utama:
 
